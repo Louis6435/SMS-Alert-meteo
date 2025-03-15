@@ -1,0 +1,1 @@
+Importez les deux fichiers dans un même dossier sur un hébergement. Toute la configuration se fait depuis l'interface web; commencez en ouvrant config.php. Les consignes sont données sur la page de ce fichier.
